@@ -4,3 +4,4 @@ test/api/allure-results
 bin
 .pytest_cache
 lib
+allure-results
