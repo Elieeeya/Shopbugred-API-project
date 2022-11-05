@@ -1,16 +1,16 @@
 {
   "base": {
-    "project": "qa_guru_python_lesson-20",
-    "environment": "dev",
-    "comment": "Build Results",
-    "reportLink": "https://jenkins.autotests.cloud/job/qa_guru_python_lesson-20/",
+    "project": "Shopbugred-API-project",
+    "environment": "REST",
+    "comment": "API",
+    "reportLink": "https://jenkins.autotests.cloud/job/Shopbugred-API-project_Elieeeya/",
     "language": "en",
     "allureFolder": "allure-report/",
     "enableChart": true
   },
   "telegram": {
-    "token": "",
-    "chat": "",
+    "token": "15207087185:AAGckEHzZXrYgDXaEH-oUwzpQaEe-Ge3E08",
+    "chat": "-10017220068027",
     "replyTo": ""
   }
 }
